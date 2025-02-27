@@ -19,9 +19,9 @@ while(true){
     }else if(ans!=randomNum){
         console.log("try again")
         if(ans> randomNum){
-            console.log("try a smaller  number");
+            ans=prompt("try a smaller  number");
         }else{
-            console.log("try a bigger number");
+            ans=prompt("try a bigger number");
         }
     ans=prompt("enter your guess");
     }
