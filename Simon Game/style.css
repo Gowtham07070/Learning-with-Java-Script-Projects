@@ -1,0 +1,86 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color:white ;
+
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    color:white ;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    color:white ;
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: rgb(226, 140, 140);
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: rgb(73, 22, 15);
+    box-shadow: 2.0rem 0.5rem 12.7rem rgb(219, 85, 85) ;
+}
+
+.blue{
+    background-color: rgb(144, 144, 218);
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: rgb(45, 90, 156);
+    box-shadow: 2.0rem 0.5rem 12.7rem rgb(38, 54, 153) ;
+}
+
+.green{
+    background-color: rgb(135, 204, 135);
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: rgb(19, 78, 37);
+    box-shadow: 2.0rem 0.5rem 12.7rem rgb(75, 165, 39) ;
+}
+
+.purple{
+    background-color: plum;
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: rgb(110, 22, 96);
+    box-shadow: 2.0rem 0.5rem 12.7rem rgb(92, 15, 95) ;
+}
+
+
+
+.contain1 ,.contain2 ,.contain3 ,.contain4 {
+    margin: 0.5rem;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.959);
+}
+
+.white{
+    background-color: whitesmoke;
+}
+
+.greend{
+    background-color: seagreen;
+}
+
+h4{
+    position: absolute;
+    bottom: 0;
+    color:white ;
+}
