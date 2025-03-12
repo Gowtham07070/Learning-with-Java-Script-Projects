@@ -1,0 +1,33 @@
+
+h1{
+    margin: 1rem,1rem;
+    text-align: center;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+#in{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 1rem;
+    border-width: 0.1rem;
+    
+}
+
+#in::placeholder{
+    padding:2rem ;
+}
+
+#in[type="text"]{
+    padding-left:2rem ;
+}
+
+button{
+    border-radius: 1rem;
+    border-width: 0.1rem;
+    margin-left: 0.5rem;
+}
